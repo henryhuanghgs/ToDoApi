@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi.csproj", "{2C64B744-794A-4F3C-9A12-548185BFDE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApiTests", "..\TodoApi.Tests\TodoApiTests.csproj", "{00B57618-10E4-4580-844A-16A29083A8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C64B744-794A-4F3C-9A12-548185BFDE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C64B744-794A-4F3C-9A12-548185BFDE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C64B744-794A-4F3C-9A12-548185BFDE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C64B744-794A-4F3C-9A12-548185BFDE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B57618-10E4-4580-844A-16A29083A8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B57618-10E4-4580-844A-16A29083A8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B57618-10E4-4580-844A-16A29083A8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B57618-10E4-4580-844A-16A29083A8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
