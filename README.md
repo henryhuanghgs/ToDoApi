@@ -37,7 +37,9 @@
   dotnet run
 ```
 6. browse
+
   http://localhost:5000/api/todo
+  
   http://localhost:5000/api/todo/1
 
 
